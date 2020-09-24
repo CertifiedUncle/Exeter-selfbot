@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "password": "",
+    "token": "NzU4NDgzODI2NjE5MDU2MTI5.X2vnWQ._TEA_6UxIY3iUX1xuxko9tB5zDU",
+    "password": "dengkp10",
     "prefix": "xx",
     
     "nitro_sniper": true, 
