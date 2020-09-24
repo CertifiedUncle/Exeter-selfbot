@@ -1,6 +1,6 @@
 {
-    "token": "",
-    "password": "",
+    "token": "NzU4NDg0NzQ5OTI0MTcxODM3.X2vouQ.TeaPySUG82rokk_4hEleX954kp0",
+    "password": "Poplock123456",
     "prefix": "xx",
     
     "nitro_sniper": true, 
